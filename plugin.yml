@@ -1,0 +1,7 @@
+name: ApolloParties
+main: me.apollodevs.parties.Parties
+author: reider45
+version: 1.0
+commands:
+   parties:
+      description: Parties Command
